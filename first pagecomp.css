@@ -1,0 +1,72 @@
+body{background-image: url("background-illustrator-12.jpg");
+    width:1500px;
+    height:900px;
+    background-color:none;
+    background-attachment:fixed;}
+
+.block1
+{   width: 1620px;
+    height:600px;
+    color:white;
+    font-size:40px;
+    font-style: unset;
+    background-color: palevioletred;
+    overflow: scroll;
+    box-shadow: inset 10px 10px 5px cornflowerblue;
+
+}
+.wish{
+    float: right;
+}
+.heading
+{   width: 1620px;
+    height:75px;
+    color:white;
+    font-size:40px;
+    font-style:normal;
+    background:linear-gradient(navy,blue);
+}
+.menu {
+    width: 1600px;
+    height: 45px;
+    background-color: darkcyan;
+    border-radius: 0px 0px 0px 0px;
+    padding: 10px;
+    border: 1px solid white;
+    font-size: 20px;
+    border-radius:0px 0px 20px 20px;
+}
+.menu ul li {
+    display: inline;
+    word-spacing: 30px;
+    text-decoration: rosybrown;
+    padding: 15px;
+}
+a:hover{color:lightseagreen }
+.text1{
+    width =1300px;
+    height=550px;
+    text-align:justify;
+    text-shadow:2px 3px 11px midnightblue;
+    word-spacing=2px;
+    margin: 20px;
+    color:white;
+    font-family: "Comic Sans MS";
+    font-size: 20px;
+
+}
+.text2{
+    width =1300px;
+    height=550px;
+    text-align:justify;
+    text-shadow:2px 3px 11px midnightblue;
+    word-spacing=2px;
+    margin: 20px;
+    color:white;
+    font-family: "Comic Sans MS";
+    font-size: 10px;
+
+}
+img
+{ float:left;
+    margin: 10px}
